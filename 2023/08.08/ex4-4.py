@@ -13,7 +13,7 @@ array = []
 for i in range(n):
     array.append(list(map(int, input().split())))
 
-result = 0
+result = 1
 while(1):
     count = 0
     while(count < 4):
