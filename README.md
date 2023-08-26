@@ -10,3 +10,4 @@
 2023.08.21 this is coding test p230 ~ p250    다익스트라 <br>
 2023.08.22 this is coding test p251 ~ p265    다익스트라, 백준 문제 <br>
 2023.08.23 this is coding test p266 ~ p305    다익스트라, 백문 문제 <br>
+2023.08.26 this is coding test p306 ~ p327    실전문제 <br>
