@@ -16,5 +16,4 @@ for i in range(len(n)-1):
         else:
             count_1 += 1
 
-
 print(min(count_0, count_1))

@@ -30,7 +30,4 @@ def bfs(y, x):
 
     return graph[n-1][m-1]
 
-
-
-
 print(bfs(0,0))

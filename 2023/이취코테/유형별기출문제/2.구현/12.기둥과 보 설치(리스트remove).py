@@ -1,6 +1,9 @@
 ## build_fram 위치, 위치, (기둥,보), (삭제, 설치)
 ## answer 규칙 위치, 위치, (기둥, 보)
 ## 기둥 설치 : 2, 보 설치 : 1로 graph에 값 넣기
+
+
+## https://school.programmers.co.kr/learn/courses/30/lessons/60061
 def possible(answer):
     for x, y, obj in answer:
         ## 기둥

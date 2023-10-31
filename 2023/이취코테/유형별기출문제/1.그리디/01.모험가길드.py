@@ -12,4 +12,3 @@ for i in array:
         count = 0
 
 print(result)
-

@@ -1,3 +1,5 @@
+## https://school.programmers.co.kr/learn/courses/30/lessons/60058
+
 def balanced_index(p):
     count = 0
     for i in range(len(p)):
