@@ -30,7 +30,7 @@ def solution(n, roads, sources, destination):
     
     for i in range(len(roads)):
         a, b = roads[i]
-        graph[a].append((b, 1))
+        graph[a].append((b,1))
         graph[b].append((a,1))
     
     distance = dij(destination, distance, graph)
